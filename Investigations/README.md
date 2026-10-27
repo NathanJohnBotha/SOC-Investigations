@@ -10,7 +10,7 @@ Each investigation follows six key questions:
 1. What fired and why?
 2. What do the logs show?
 3. Who and what is affected?
-4. Is it a true positive or false positive?
+4. Is it a true positive, false positive, or inconclusive, and what evidence supports the verdict?
 5. What is the impact?
 6. What is the next action?
 
